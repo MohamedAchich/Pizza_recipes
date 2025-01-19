@@ -36,7 +36,7 @@ A Flutter mobile application that features delicious **Pizza Recipes** with smoo
 
 ## Screenshots
 ![Pizza Recipes Screenshot](https://github.com/user-attachments/assets/7a1c87d0-1e59-42a3-9ca3-c8cc7996ea16)
-![Pizza Recipes Screenshot](https://github.com/user-attachments/assets/6ef11661-21cf-4349-9f58-e163acea67fa)
+![Pizza Recipes Screenshot](https://github.com/user-attachments/assets/38435442-595e-4e50-aaea-663a595117ec)
 ![Pizza Recipes Screenshot](https://github.com/user-attachments/assets/6b687f5e-0ea7-4e89-af33-37dc4e3ed452)
 ![Pizza Recipes Screenshot](https://github.com/user-attachments/assets/6166de72-0ffc-4d8c-a460-fe204f58650a)
 ![Pizza Recipes Screenshot](https://github.com/user-attachments/assets/789e6a79-c869-426a-900f-face8b3351de)
